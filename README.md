@@ -1,4 +1,3 @@
-event-manager
-=============
+# Animalniax Event Manager
 
-A Symfony project created on November 19, 2016, 12:29 pm.
+This project provides an application to manage simple Events for an association.
